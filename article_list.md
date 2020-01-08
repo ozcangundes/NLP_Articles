@@ -42,6 +42,22 @@
 |40|Learning phrase representations using RNN encoder-decoder for statistical machine translation|RNN Encoder-Decode|Machine Translation|2014|6408
 |41|Distributed representations of sentences and documents|Doc2Vec|Sentence Representation|2014|4499
 |42|DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter|DistilBERT|11 NLP tasks (QA, NLI)|2019|10
+|43|Cross-lingual Language Model Pretraining|	XLM|	MultiLingual Language Model (all NLP Tasks)|	2019|	110|
+|44|RoBERTa: A Robustly Optimized BERT Pretraining Approach|	RoBERTa	|Language Model (all BERT tasks)	|2019|	60|
+|45|CamemBERT: a Tasty French Language Model	|CamemBERT|	French Language Model (all BERT tasks)|	2019|	-|
+|46|ALBERT: A Lite BERT for Self-supervised Learning of Language Representations	|ALBERT|	Language Model |(all BERT tasks)|	2019	|23|
+|47|CTRL: A Conditional Transformer Language Model for Controllable Generation|	CTRL|	Language Model|	2019|	5|
+|48|Language Models are Unsupervised Multitask Learners|	-|	Multitask Learning|	2019	|232|
+|49|Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond	|words-lvt5k-1sent|	Summarization	|2016|	647|
+|50|Deep Recurrent Generative Decoder for Abstractive Text Summarization	|DRGD	|Summarization|	2017|	73|
+|51|Generative Adversarial Network for Abstractive Text Summarization|	-|	Summarization|	2018|	42|
+|52|Text Summarization with Pretrained Encoders|	-	|Summarization	|2019|	7|
+|53|A Deep Reinforced Model for Abstractive Summarization|	ML+RL	|Summarization	|2017|	422|
+|54|SummaRuNNer: A Recurrent Neural Network Based Sequence Model for Extractive Summarization of Documents|	SummaRuNNer	|Summarization	|2017	|295|
+|55|Unsupervised Text Summarization Using Sentence Embeddings|	-	|Summarization	|2016	|2|
+|56|Fine-tune BERT for Extractive Summarization|	BERTSum|	Summarization|	2019|	23|
+|57|75 Languages, 1 Model: Parsing Universal Dependencies Universally	|UDIfy	|Dependency Parser	|2019|8|
+|58|Cross-Lingual Lemmatization and Morphology Tagging with Two-Stage Multilingual BERT Fine-Tuning|-|POS, NER Tagging|2019|4|
 
 
 
